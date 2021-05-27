@@ -9,7 +9,7 @@ echo "Good morning";
 else
 if ($time >= "12" && $time < "17")
 {
-echo "Good afternoon";
+echo "Good night";
 }
 else
 if ($time >= "17" && $time < "19")
